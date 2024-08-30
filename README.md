@@ -1,5 +1,5 @@
-# FreshmanTest
-
+# FudanLabSafetyExam
+复旦大学实验室安全考试校级试卷运行脚本
 本项目参考https://github.com/dannyXSC/Fudan_FreshmanTest
 
 ## 成果
